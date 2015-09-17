@@ -1,2 +1,2 @@
 # DST-repo
-public repo for Data Scientist's Toolbox web course (COURSERA)   
+## Public repo for Data Scientist's Toolbox web course (COURSERA)   
